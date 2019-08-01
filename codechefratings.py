@@ -1,3 +1,6 @@
+"""
+usage: python codechefratings.py <user1> <user2> <user3> #and so on..
+"""
 #author : abhishekdalmia
 import sys
 import re
