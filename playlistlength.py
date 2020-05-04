@@ -1,4 +1,7 @@
 #script to find running time of a youtube playlist
+"""
+usage: python playlistlength.py <playlist-url>
+"""
 import re
 import sys
 from urllib.request import Request, urlopen, urlretrieve
